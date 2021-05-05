@@ -1,1 +1,2 @@
 # ICS2O-Unit2-02-Go-Brasic_Math
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit2-02-Go-Brasic_Math/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit2-02-Go-Brasic_Math/actions)
