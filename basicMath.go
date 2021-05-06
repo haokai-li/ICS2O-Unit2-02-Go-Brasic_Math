@@ -5,9 +5,7 @@
 
 package main
 
-import (
-  "fmt"
-)
+import "fmt"
 
 func main() {
   // This function does Brasic_Math
